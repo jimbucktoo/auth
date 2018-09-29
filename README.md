@@ -1,6 +1,6 @@
 # auth
 
-auth is an authorization application created in Javascript to help me learn how to use Passport as an authentification middelware.
+auth is an authentication application created in Javascript to help me learn how to use Passport as an authentication middleware.
 
 ## Technologies
 
