@@ -11,4 +11,4 @@ auth is an authentication application created in Javascript to help me learn how
 
 ## Authors
 
-* **James Liang** - *Initial work* - [jimbucktoo](https://github.com/jimbucktoo/jimbucktoo)
+* **James Liang** - *Initial work* - [jimbucktoo](https://github.com/jimbucktoo/)
